@@ -5,7 +5,7 @@
 3. Metamask pairing
 4. Interaction with smart contracts on Ethereum network.
 5. Sending Ethereum through the blockchain network.
-6. Writing Solidity code.
+6. Writing Solidity code. s
 
 
 ![1](https://user-images.githubusercontent.com/72302495/154715992-e8a4db24-277c-47d3-b4a6-e866ff5a7080.PNG)
